@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SuperRightHand
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning computer engineering at UIT(Vietnamese)
+- 🌱 I’m currently learning computer engineering at UIT(Vietnam)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me thanhtuce.work@gmail.com
 
